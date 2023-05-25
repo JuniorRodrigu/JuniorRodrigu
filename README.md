@@ -1,8 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=01E400&multiline=true&width=499&height=160&lines=ol%C3%A1!;Me+chamo+Junior+Rodrigues+;Programador+Junior;A.D.S+2019+a+2021;Em+busca+de+oportunidade;+Sempre+com+uma+idaia+nova;+++++++++++++++++;+++++++++++++++++++++" alt="Typing SVG" /></a>
   </div>
-<br>
-<br>
+
 <div align="center">
   <a href="https://github.com/JuniorRodrigu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorRodrigu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
